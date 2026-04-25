@@ -1,0 +1,14 @@
+{
+  "github_token": "YOUR_GITHUB_TOKEN_HERE
+  "github_repo": "juny53811/quark-resources",
+  "github_branch": "main",
+  "telegram_bot_token": "8639820870:AAE1D2jqdysYXok-BTuDdm4QgUY3MWZ9sx0",
+  "telegram_channel_id": "-5234378271",
+  "telegram_group_id": "-5234378271",
+  "ai_api_key": "sk-b1f91bce834341408728795b8fa740e7",
+  "ai_base_url": "https://api.deepseek.com",
+  "ai_model": "deepseek-chat",
+  "quark_save_dir": "资源站/",
+  "share_expired_type": 0,
+  "enable_passcode": true
+}
