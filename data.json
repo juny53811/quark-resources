@@ -58,5 +58,15 @@
     "fid": "c7f6ccc4727d4520b949a06563e0efcc",
     "pdir_id": "0",
     "original_title": "新分享资源"
+  },
+  {
+    "status": "success",
+    "title": "抱歉，您提供的链接是一个URL，无法从中提取资源标题。请提供具体的原标题文字内容，以便我帮您改写。",
+    "url": "https://pan.quark.cn/s/fee3a4086234",
+    "passcode": "FhlT",
+    "category": "有声书",
+    "fid": "2eaefe44c39d48d3959ffd7d11ab8232",
+    "pdir_id": "0",
+    "original_title": "https://pan.quark.cn/s/0da5bbb6eab2"
   }
 ]
